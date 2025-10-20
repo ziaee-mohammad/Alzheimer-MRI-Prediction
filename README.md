@@ -166,4 +166,7 @@ shap             # optional (explainability)
 ## 👤 Author
 **Mohammad Ziaee** – Computer Engineer | AI & Data Science  
 GitHub: https://github.com/ziaee-mohammad
+👉 Instagram: [@ziaee_mohammad](https://www.instagram.com/ziaee_mohammad/)
+
+
 
